@@ -17,7 +17,7 @@ import java.text.NumberFormat;
  */
 public class PBO_IF2_10116414_SaldoTabungan {
     public static void main(String[] args) {
-        NumberFormat numberFormat = NumberFormat.getInstance();
+            NumberFormat numberFormat = NumberFormat.getInstance();
             numberFormat.setMinimumIntegerDigits(0);
             numberFormat.setGroupingUsed(true);
                      
